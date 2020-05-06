@@ -1,6 +1,4 @@
-import 'package:combustivel_app/pages/home.page.dart';
 import 'package:combustivel_app/pages/login.page.dart';
-import 'package:combustivel_app/pages/searchfuels.page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
